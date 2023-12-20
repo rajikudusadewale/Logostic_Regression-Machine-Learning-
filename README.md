@@ -1,4 +1,4 @@
-# Logostic_Regression-Machine-Learning-
+# Logistic_Regression-Machine-Learning-
 Python
 
 

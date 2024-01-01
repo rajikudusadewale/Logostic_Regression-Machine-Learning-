@@ -34,8 +34,11 @@ age range,
 and if they have partners and dependents
 
 Note: 
-# The churn data is an hypothetical data that concerns a telecommunication company.
-# The data has been extracted from IBM Obj Storage
 
-# you can use !wget to extract it again
-# !wget - 0 ChurnData.csv https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/ChurnData.csv
+The churn data is an hypothetical data that concerns a telecommunication company. 
+
+The data has been extracted from IBM Obj Storage
+
+you can use !wget to extract it again
+
+!wget - 0 ChurnData.csv https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/ChurnData.csv

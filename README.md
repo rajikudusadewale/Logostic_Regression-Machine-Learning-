@@ -14,27 +14,6 @@ Python
   - Customer Account Information: Includes tenure, contract type, payment method, billing status, and charges.
   - Demographic Information: Covers gender, age range, and family status of the customers.
  
-  The data set includes information about:
-
-- Customers who left within the last month – the column is called Churn
-- Services that each customer has signed up for – phone,
-- multiple lines, 
-- Internet, 
-- online security, 
-- online backup, 
-- device protection, 
-- tech support, 
-- and streaming TV and movies
-- Customer account information – 
-- how long they’ve been a customer, 
-- contract, payment method, 
-- paperless billing, 
-- monthly charges, 
-- and total charges
-- Demographic info about customers – 
-- gender, 
-- age range, 
-- and if they have partners and dependents
 
   !wget - 0 ChurnData.csv https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/ChurnData.csv
 
